@@ -1,3 +1,4 @@
+![](img/logo_128.png)
 # clam
 The MeetiX shell.
 
